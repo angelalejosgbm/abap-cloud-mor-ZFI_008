@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service ZSER_DEF_REP_FORMF07 {
+  expose ZFI_REP_FORMF07 as REP_FORMF07;
+}
